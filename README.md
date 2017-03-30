@@ -1,4 +1,4 @@
-#Feline Smash ##, like face smash but with cats.
+# Feline Smash, ## like face smash but with cats.
 Created in 4 hours at Falcon Hacks, a mini hackathon at Daytona State College ATC campus.
 
 Made by Amanda K, Daniel Jackson, and Brendan Tackney.
