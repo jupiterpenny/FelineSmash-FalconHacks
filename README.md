@@ -1,8 +1,11 @@
 # Feline Smash, like face smash but with cats.
-### Created in 4 hours at Falcon Hacks, a mini hackathon at Daytona State College ATC campus.
 ### Made by Amanda K, Daniel Jackson, and Brendan Tackney.
+### Created in 4 hours at Falcon Hacks, a mini hackathon at Daytona State College ATC campus.
 
-We used NodeJS to create a  game where mulitple players, in real time, can discover which cat they think is the cutest.
+A game where two cats are put side by side, you pick which one ou think is the cutest, then his overall score is displayed underneath him.
+To play run node on the server file.
+
+
 
 
 
